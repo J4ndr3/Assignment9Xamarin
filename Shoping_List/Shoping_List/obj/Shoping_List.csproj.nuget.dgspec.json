@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jandr\\Desktop\\Git\\Assignment9Xamarin\\Shoping_List\\Shoping_List\\Shoping_List.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jandr\\Desktop\\Git\\Assignment9Xamarin\\Shoping_List\\Shoping_List\\Shoping_List.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jandr\\Desktop\\Git\\Assignment9Xamarin\\Shoping_List\\Shoping_List\\Shoping_List.csproj",
+        "projectName": "Shoping_List",
+        "projectPath": "C:\\Users\\jandr\\Desktop\\Git\\Assignment9Xamarin\\Shoping_List\\Shoping_List\\Shoping_List.csproj",
+        "packagesPath": "C:\\Users\\jandr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jandr\\Desktop\\Git\\Assignment9Xamarin\\Shoping_List\\Shoping_List\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jandr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid81"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid81": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid81": {
+          "dependencies": {
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.110, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[27.0.2.1, )"
+            },
+            "sqlite-net": {
+              "target": "Package",
+              "version": "[1.0.8, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.5.231, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
