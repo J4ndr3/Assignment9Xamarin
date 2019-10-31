@@ -110,13 +110,10 @@ namespace Shoping_List
 
             SwipeMenuItem callItem = new SwipeMenuItem(this)
             {
-                Width = 200,
-                BackgroundRes = Resource.Mipmap.icD,
+                Width = (200),
                 Background = new ColorDrawable(Color.Red),
                 IconRes = Resource.Mipmap.icD
-                
-                
-                
+ 
             };
             menu.AddMenuItem(callItem);
         }

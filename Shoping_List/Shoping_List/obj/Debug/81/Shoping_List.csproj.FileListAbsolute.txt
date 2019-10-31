@@ -736,3 +736,4 @@ C:\Users\jandr\Desktop\Git\Assignment9Xamarin\Shoping_List\Shoping_List\obj\Debu
 C:\Users\jandr\Desktop\Git\Assignment9Xamarin\Shoping_List\Shoping_List\obj\Debug\81\android\assets\machine.config
 C:\Users\jandr\Desktop\Git\Assignment9Xamarin\Shoping_List\Shoping_List\obj\Debug\81\stamp\_CompileToDalvik.stamp
 C:\Users\jandr\Desktop\Git\Assignment9Xamarin\Shoping_List\Shoping_List\obj\Debug\81\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\jandr\Desktop\Git\Assignment9Xamarin\Shoping_List\Shoping_List\obj\Debug\81\Shoping_List.csprojAssemblyReference.cache
